@@ -1,0 +1,5 @@
+author: "Mirza Irfan Ali"
+category: "http"
+summary: "HTTP POST user's messages to target URL when user is offline for eJabberd 20.xx"
+home: "https://github.com/alianp/mod_offline_http_post_notify"
+url: "https://github.com/alianp/mod_offline_http_post_notify"
