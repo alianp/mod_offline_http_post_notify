@@ -15,6 +15,13 @@ Installation
 4. bash /path-to-ejabberdctl/ejabberdctl module-install mod_offline_http_post_notify
 5. restart ejabberd
 
+RPM Installation
+----------------
+1. cd /home/xxxxx/.ejabberd-module/sources/
+2. git clone https://github.com/alianp/mod_offline_http_post_notify.git;
+3. copy ebin/mod_offline_http_post_notify.beam to ejabberd modules directory
+4. restart ejabberd
+
 That's it. The module is now installed.
 
 Configuration
